@@ -19,7 +19,7 @@
     "mongoose-unique-validator": "^2.0.3",
     "morgan": "~1.9.1",
     "node-geocoder": "^3.27.0",
-    "pug": "2.0.0-beta11",
+    "pug": "3.0.1",
     "rotating-file-stream": "^2.1.1",
     "slugify": "^1.4.2"
   },
